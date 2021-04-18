@@ -1,5 +1,6 @@
 {
     "menuTitle": "COMMUNITY",
+    "title": "Babylon.js Demos",
     "blocks": [
         {
             "templateName": "galleryBlock",
@@ -8,12 +9,129 @@
                 "desc": "Babylon’s open, vibrant community of developers, creators, and artists are constantly pushing the boundaries of what’s possible with web 3D.  Check out some of their latest amazing work!",
                 "items": [
                     {
+                        "desc": "SYNTHAX",
+                        "author": "by Foxhoundn",
+                        "link": "https://synthax.gg/",
+                        "img": {
+                            "url": "../community/assets/img/SYNTHAX.jpg",
+                            "alt": "SYNTHAX"
+                        }
+                    },
+                    {
+                        "desc": "Brainy Warriors",
+                        "author": "by miyakojingi",
+                        "link": "http://brainywarriors.com/",
+                        "img": {
+                            "url": "../community/assets/img/brainyWarrior.jpg",
+                            "alt": "Brainy Warriors"
+                        }
+                    },
+                    {
+                        "desc": "Wall Game",
+                        "author": "by Robin_McLaut",
+                        "link": "https://demo.seitwerk.de/sw-wall/",
+                        "img": {
+                            "url": "../community/assets/img/wallGame.jpg",
+                            "alt": "Wall Game"
+                        }
+                    },
+                    {
+                        "desc": "Virtual Tennis",
+                        "author": "by Punk Office",
+                        "link": "https://punkoffice.com/tennis/",
+                        "img": {
+                            "url": "../community/assets/img/virtualTennis.jpg",
+                            "alt": "Virtual Tennis"
+                        }
+                    },
+                    {
+                        "desc": "The Cube Earth Society",
+                        "author": "by Guigoz",
+                        "link": "https://thecubeearthsociety.com/#solarSystem",
+                        "img": {
+                            "url": "../community/assets/img/cubeEarth.jpg",
+                            "alt": "The Cube Earth Society"
+                        }
+                    },
+                    {
+                        "desc": "Furball Shader",
+                        "author": "by Avin",
+                        "link": "https://playground.babylonjs.com/#LVJG7H",
+                        "img": {
+                            "url": "../community/assets/img/furBall.jpg",
+                            "alt": "Furball Shader"
+                        }
+                    },
+                    {
+                        "desc": "City Generator",
+                        "author": "by MackeyK24",
+                        "link": "https://assetstore.unity.com/packages/3d/environments/urban/fantastic-city-generator-157625",
+                        "img": {
+                            "url": "../community/assets/img/cityGenerator.jpg",
+                            "alt": "City Generator"
+                        }
+                    },
+                    {
+                        "desc": "Christmas Snow Globe",
+                        "author": "by Robin_McLaut",
+                        "link": "https://demo.seitwerk.de/sw-ice/",
+                        "img": {
+                            "url": "../community/assets/img/Christmas_Snow_Globe.jpg",
+                            "alt": "Christmas Snow Globe"
+                        }
+                    },
+                    {
+                        "desc": "Shed Builder",
+                        "author": "by Karim Mohammed",
+                        "link": "https://affectionate-turing-a19afe.netlify.app/",
+                        "img": {
+                            "url": "../community/assets/img/shedBuilder.jpg",
+                            "alt": "Shed Builder"
+                        }
+                    },
+                    {
+                        "desc": "3D Room Planner",
+                        "author": "by Marxent",
+                        "link": "https://www.marxentlabs.com/products/3d-room-planner-apps/",
+                        "img": {
+                            "url": "../community/assets/img/marxent.jpg",
+                            "alt": "3D Room Planner"
+                        }
+                    },
+                    {
+                        "desc": "Snow Ball",
+                        "author": "by mawa",
+                        "link": "http://www.media-geneva.ch/demos/bjs/snowball/psa.html",
+                        "img": {
+                            "url": "../community/assets/img/snowBall.jpg",
+                            "alt": "Snow Ball"
+                        }
+                    },
+                    {
+                        "desc": "Cash App",
+                        "author": "by Justin Schwinghamer",
+                        "link": "https://cash.app/cashbycashapp",
+                        "img": {
+                            "url": "../community/assets/img/cashApp.jpg",
+                            "alt": "Cash App"
+                        }
+                    },
+                    {
                         "desc": "Temple Run 2",
                         "author": "by Imangi Studios",
                         "link": "https://poki.com/en/g/temple-run-2#",
                         "img": {
                             "url": "../community/assets/img/templeRun2.jpg",
                             "alt": "Temple Run 2"
+                        }
+                    },
+                    {
+                        "desc": "3D Art Gallery",
+                        "author": "by Karim Mohammed",
+                        "link": "https://quirky-mcnulty-f68aa7.netlify.app/",
+                        "img": {
+                            "url": "../community/assets/img/3dArtGallery.jpg",
+                            "alt": "3D Art Gallery"
                         }
                     },
                     {
@@ -257,15 +375,6 @@
                         "img": {
                             "url": "../community/assets/img/hotelAtlantis.jpg",
                             "alt": "Hotel Atlantis"
-                        }
-                    },
-                    {
-                        "desc": "Christmas Snow Globe",
-                        "author": "by Robin_McLaut",
-                        "link": "https://demo.seitwerk.net/sw-ice/",
-                        "img": {
-                            "url": "../community/assets/img/Christmas_Snow_Globe.jpg",
-                            "alt": "Christmas Snow Globe"
                         }
                     },
                     {

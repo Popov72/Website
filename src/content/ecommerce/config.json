@@ -1,6 +1,6 @@
 {
     "menuTitle": "E-COMMERCE",
-    "title": "Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best ",
+    "title": "Babylon.js and e-commerce",
     "metaTags": [
         {}
     ],
@@ -264,7 +264,7 @@
                     {
                         "desc": "SurfaceVue",
                         "author": "Deft & Tact",
-                        "link": "https://surfacevue-web.azurewebsites.net/",
+                        "link": "https://surfacevue.com/",
                         "img": {
                             "url": "../community/assets/img/SurfaceVue.jpg",
                             "alt": "SurfaceVue"
